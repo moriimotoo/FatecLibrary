@@ -1,0 +1,45 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+    background-color: #ebe4df;
+    margin: 0;
+}
+
+.navcolor {
+    background-color: #545445;
+    color: #ebe4df;
+}
+
+.navtext{
+    color: #ebe4df;
+}
+
+.footer-bg {
+    background-color: #c6c5b3;
+}
+.botao {
+    background-color: #545445;
+    color: #ebe4df;
+}
+.botao2 {
+    background-color: #a86d53;
+    color: #ebe4df;
+}
+
+.botao3 {
+    background-color: #9c5d41;
+    color: #ebe4df;
+}
